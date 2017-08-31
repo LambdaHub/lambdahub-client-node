@@ -1,0 +1,14 @@
+{
+  "name": "lambdahub",
+  "version": "0.0.1",
+  "description": "Client library for LambdaHub",
+  "keywords": ["lambdahub", "client"],
+  "homepage": "https://lambdahub.com",
+
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambdahub/lambdahub-client-node"
+  },
+  "dependencies": {}
+}
