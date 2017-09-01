@@ -1,4 +1,4 @@
-**Client library for [LambdaHub](https://lambdahub.com)**
+**Node client library for [LambdaHub](https://lambdahub.com)**
 
 
 ### NPM
